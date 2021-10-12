@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CPS/ApiGateway/obj
+/CPS/ApiGateway/bin/Debug/net5.0
+/CPS/.vs/CPS/config
